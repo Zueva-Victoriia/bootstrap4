@@ -1,0 +1,24 @@
+
+
+header .container {
+	background-image: url(../image/b2.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: cover;
+
+}
+
+.img1{
+	width: 100%;
+	height: auto;
+
+
+}
+
+footer .container {
+	background-image: url(../image/b2.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	background-size: cover;
+
+}
